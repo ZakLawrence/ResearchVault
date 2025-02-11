@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "6f9473c35bb747da",
+    "type": "split",
+    "children": [
+      {
+        "id": "7799b65f5e5b7797",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dfd5d7c23385213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Applications of Characteristic functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Applications of Characteristic functions"
+            }
+          },
+          {
+            "id": "6ea3c1f3b66643b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Intrest/Information Theory/Information Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Information Theory"
+            }
+          },
+          {
+            "id": "8b0324b98ba7583c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7810a02ef469ac27",
+    "type": "split",
+    "children": [
+      {
+        "id": "6742fc7e1d169db0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccaca4ab3d4e35cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
+            }
+          },
+          {
+            "id": "ac5dfdf55b692e9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6161dd49c670c5fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9cbd56a65dda57a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a965824d3b07f715",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13e3fbe96ddad246",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d403a50fd8d73b91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing Links"
+            }
+          },
+          {
+            "id": "39b3bc7236a595a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "01e3ac18ff416e5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8b0324b98ba7583c",
+  "lastOpenFiles": [
+    "Self Information.md",
+    "General Intrest/Information Theory/Information Theory.md",
+    "Statistics/Applications of Characteristic functions.md",
+    "General Intrest/Information Theory",
+    "Statistics/Discrete random variables.md",
+    "Statistics/Errors of The First Kind.md",
+    "Statistics/Errors of The Second Kind.md",
+    "Statistics/Estimator.md",
+    "Statistics/Expectation Value.md",
+    "Statistics/Exponential distribution.md",
+    "Statistics/Frequentest Interpretation.md",
+    "Statistics/Functions of Random Variables.md",
+    "Statistics/Functions of random variables.png",
+    "Statistics/Gamma function.md",
+    "Statistics/Gaussian distribution.md",
+    "Statistics/Goodness-of-fit Tests.md",
+    "Statistics/Independent.md",
+    "Statistics/Interpretation of Probability.md",
+    "Statistics/Law of Large Numbers.md",
+    "Statistics/Log-normal distribution.md",
+    "Statistics/Marginal.md",
+    "Statistics/Moment of a distribution.md",
+    "Statistics/Multinomial distribution.md",
+    "Statistics/Multivariable Distribution.md",
+    "Statistics/Multivariate Functions.md",
+    "Statistics/Multivariate Functions Example.md",
+    "Statistics/Nth algebraic moment.md",
+    "Statistics/Nth central moment.md",
+    "Statistics/Rejection Region2.png",
+    "Statistics/set-operations-venn-diagrams.png",
+    "Statistics/StatsTest.png",
+    "Tasks/Old",
+    "Tasks/Current",
+    "Tasks",
+    "Computing/Tools",
+    "Computing/C++",
+    "Computing/Rust",
+    "Computing/Python",
+    "Computing/SQL",
+    "General Intrest"
+  ]
+}
